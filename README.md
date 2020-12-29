@@ -42,10 +42,15 @@ the numbers look very out of proportion and we can also see that there will be n
 After some easy math we can figure the proportions per position, as listed below:
 
 Each Staff retiree must mentor about 22 incoming employees.
+
 Each Senior Staff retiree must mentor about 84 incoming employees.
+
 Each Engineer retiree must mentor about 36 incoming employees.
+
 Each Assistant Engineer retiree must mentor about 29 incoming employees.
+
 Each Senior Enginner retiree must mentor about 61 incoming employees.
+
 Each Technique Leader retiree must mentor about 45 incoming employees.
 
 As a class mentorship program I find it possible, but as a 1:1 mentorship program it would be impossible.
