@@ -12,7 +12,7 @@ Through our analysis we created four new tables:
 - retirement_titles, we created this dataset to show all the titles by employee number.
 ![Retirement Titles Table] ("Images/retirement_titles.png")
 - retiring_titles, this table show the data of all the titles for each retiring employee.
-![Retiring Titles Table] (Images/retiring_tables.png)
+![Retiring Titles Table] (../Images/retiring_tables.png)
 - unique_titles, this table removes any duplicates of employees by using the DISTINCT ON statement.
 ![Unique Titles Table] (Images/ut.png)
 - mentorship_eligibility, this table shows all employees that are retirement ready and elibible for the mentorship program.
