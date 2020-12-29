@@ -11,10 +11,13 @@ We used various SQL queries to create new tables, filter, group, order and join 
 Through our analysis we created four new tables:
 - retirement_titles, we created this dataset to show all the titles by employee number.
 ![Retirement Titles Table](Images/retirement_titles.png)
+
 - retiring_titles, this table show the data of all the titles for each retiring employee.
 ![Retiring Titles Table](Images/retiring_tables.png)
+
 - unique_titles, this table removes any duplicates of employees by using the DISTINCT ON statement.
 ![Unique Titles Table](Images/ut.png)
+
 - mentorship_eligibility, this table shows all employees that are retirement ready and elibible for the mentorship program.
 ![Mentorship Eligibility Table](Images/me.png)
 
@@ -24,6 +27,7 @@ Through our analysis we created four new tables:
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 - According to our data a total of 1,940 employees will be retiring and eligible for the mentorship program. All 1,940 positions will need to filled. Below is a detailed table of how many retirees there will be by title.
+
 ![Eligible Mentors Table](Images/retiring_employees_count.png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
@@ -32,6 +36,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 the numbers look very out of proportion and we can also see that there will be no retiring employees in the Manager position but only two managers with unique titles. Depending on how the program is ran, I believe it is managable.
 
 ![Unique Titles Table](Images/unique_titles_count.png)
+
 ![Eligible Mentors Table](Images/retiring_employees_count.png)
 
 After some easy math we can figure the proportions per position, as listed below:
